@@ -20,11 +20,11 @@ namespace tabuleiro
 
         }
 
-        public Peca(Posicao posicao, Cor cor, int qteMovimentos, Tabuleiro tab)
+        public Peca(Tabuleiro tab, Cor cor)
         {
-            Posicao = posicao;
+            Posicao = null;
             Cor = cor;
-            QteMovimentos = qteMovimentos;
+            QteMovimentos = 0;
             Tab = tab;
         }
     }
