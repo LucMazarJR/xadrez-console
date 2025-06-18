@@ -38,11 +38,11 @@ Siga os passos abaixo para compilar e executar o jogo em sua máquina:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/nome-do-seu-repositorio.git](https://github.com/seu-usuario/nome-do-seu-repositorio.git)
+    git clone [https://github.com/LucMazarJR/xadrez-console.git](https://github.com/LucMazarJR/xadrez-console.git)
     ```
 2.  **Navegue até o diretório do projeto:**
     ```bash
-    cd nome-do-seu-repositorio
+    cd xadrez-console
     ```
 3.  **Compile o projeto:**
     ```bash
